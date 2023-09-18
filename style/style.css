@@ -1011,11 +1011,11 @@ header .mega-menu .links li:not(:last-child) {
   position: absolute;
   left: 0;
   top: 0;
-  transition: width 0.5s linear;
-  -webkit-transition: width 0.5s linear;
-  -moz-transition: width 0.5s linear;
-  -ms-transition: width 0.5s linear;
-  -o-transition: width 0.5s linear;
+  transition: width 1s linear;
+  -webkit-transition: width 1s linear;
+  -moz-transition: width 1s linear;
+  -ms-transition: width 1s linear;
+  -o-transition: width 1s linear;
 }
 /* End Skills */
 /* Start Work Steps */
